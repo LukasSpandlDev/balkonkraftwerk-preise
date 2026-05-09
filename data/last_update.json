@@ -1,0 +1,6 @@
+{
+  "last_update": "2026-05-08T08:00:00",
+  "product_count": 20,
+  "brands": ["4smartpower", "Kleines Kraftwerk", "Priwatt", "Solakon", "Tepto", "Yuma"],
+  "note": "Demo-Daten. Wird beim ersten Lauf von scraper.py durch echte Preise ersetzt."
+}
